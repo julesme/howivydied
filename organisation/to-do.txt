@@ -1,0 +1,15 @@
+Für die erste Szene:
+
+ASSETS (Jul)
+	- Character Animation für beide Charaktere
+	- Fahrzeuge
+	- Partikelsystem für Blätter
+	- Musik und Sound
+
+CODE
+Dialogsystem:
+	- Charakter muss mit Objekt interagieren, um Dialog zu starten
+	- Im Dialog muss die Bewegung verhindert werden
+	- Steuerung der Charakteranimation durch Yarn Spinner
+	- Sprechblase zu Kopf der Charaktere
+	- Dialogauswahl durch Tasten

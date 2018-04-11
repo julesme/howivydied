@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Example Text\n\n[[Node |Node1]]",
+		"position": {
+			"x": 249,
+			"y": 122
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Node1",
+		"tags": "",
+		"body": "Test test test\n\n-> Test\n    Test2\n-> Test 3\n    -> Test 4\n    -> Test 5\n\nTest 6",
+		"position": {
+			"x": 541,
+			"y": 225
+		},
+		"colorID": 0
+	}
+]
